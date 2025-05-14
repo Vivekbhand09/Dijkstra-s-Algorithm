@@ -1,0 +1,11 @@
+.grid {
+  margin: 100px 0 0;
+}
+
+.algo-image {
+  width: 100px;         /* Adjust size as needed */
+  height: auto;         /* Maintain aspect ratio */
+  display: block;
+  margin: 20px auto;    /* Center the image */
+  image-rendering: crisp-edges; /* Keeps edges sharp on scale */
+}
