@@ -20,12 +20,16 @@ An interactive visualizer for **Dijkstra’s Shortest Path Algorithm**, which il
 
 ---
 
+## 📸 Screenshots
 
-## 📽️ Demo
+### 🔹 Initial Grid Setup and Source and Destination
+![Dijkstra Grid Setup](dg-1.png)
 
-![Dijkstra Visualizer Demo](visualization.gif)
+### 🔹Placement of walls
+![Dijkstra In Progress](dg-2.png)
 
-> Make sure the `visualization.gif` file is in the same folder as `README.md`.
+### 🔹 Final Shortest Path
+![Dijkstra Final Path](dg-3.png)
 
 
 
