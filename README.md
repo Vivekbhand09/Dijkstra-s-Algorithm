@@ -23,6 +23,9 @@ An interactive visualizer for **Dijkstra’s Shortest Path Algorithm**, which il
 
 ## 📸 Screenshots
 
+### 🔹Demo
+![Demo](dijkastras.gif)
+
 ### 🔹 Initial Grid Setup and Source and Destination
 ![Dijkstra Grid Setup](dg-1.png)
 
